@@ -1,6 +1,6 @@
 # ProjectMovie
 
-#Table of Content:
+# Table of Content:
 
 -[Project Overview](#project-overview)
 
