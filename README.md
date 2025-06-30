@@ -8,9 +8,9 @@
 
 -[Tools](#tools)
 
--[Data Cleaning and Preparation]_(#data-cleaning-and-preparation)
+-[Data Cleaning and Preparation](#data-cleaning-and-preparation)
 
--[Exploratory Data Analysis]_(#exploratory-data-analysis)
+-[Exploratory Data Analysis](#exploratory-data-analysis)
 
 -[Results and Findings](#results-and-findings)
 
