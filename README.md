@@ -61,7 +61,7 @@ The movie with the biggest budget of 225,000,000 USD was "Man of Steel".
 
 The most successful actor was Steve Carell.
 
-![image](https://github.com/user-attachments/assets/7963182a-c4b2-410a-a247-5c4c6b9a83f1)
+![image](https://github.com/user-attachments/assets/716004a3-ac8e-4232-8946-53de44638c71)
 
 ### Excel Dashboard
 Can be downloaded here -
