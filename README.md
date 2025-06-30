@@ -1,6 +1,6 @@
 # Movie Data Analysis Project
 
-## Table of Content:
+### Table of Content:
 
 -[Project Overview](#project-overview)
 
@@ -26,9 +26,9 @@ Movie Data: The primary dataset used for this analysis is the "Movies Data" file
 ### Tools
 
 •	Power Query: I used Power Query for Data Cleaning
-•	 Excel
-  - Pivot Tables: I used them for Data Analysis, Creating reports, and Visualizations.
-## Data Cleaning and Preparation
+•	Excel, Pivot Tables: I used them for Data Analysis, Creating reports, and Visualizations.
+
+### Data Cleaning and Preparation
 
 In the initial data preparation phase, I performed the following tasks:
 •	Data loading and inspection.
@@ -39,14 +39,21 @@ In the initial data preparation phase, I performed the following tasks:
 ### Exploratory Data Analysis
 
 •	Depending on the year, which genres were the most profitable and what was the most profitable month?
-•	What was the most profitable movies and movies with the biggest budget?
+•	What was the most the least profitable movies and movies with the biggest budget?
 •	Which actors were the most successful?
 
 ### Results and Findings
 
+In 2013, the most profitable genre was Action and the most profitable month was June.
+The most profitable movie that year was "Insidious: Chapter 2".
+The worst movie by ROI was "Romeo and Juliet".
+The movie with the biggest budget was "Man of Steel".
+The most successful actor was Steve Carell.
 
 ![image](https://github.com/user-attachments/assets/7963182a-c4b2-410a-a247-5c4c6b9a83f1)
 
-
+### Excel Dashboard
+Can be downloaded here -
+[Movies data dashboard.xlsx](https://github.com/user-attachments/files/20987191/Movies.data.dashboard.xlsx)
 
 
